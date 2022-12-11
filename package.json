@@ -19,7 +19,7 @@
   "homepage": "https://github.com/axel12gt/youtubedl#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "logger": "0.0.1",
     "morgan": "^1.9.1",
     "ytdl-core": "^0.29.7"
